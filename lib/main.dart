@@ -144,6 +144,6 @@ class _AppState extends State<SearchableDropdownApp> {
         teacherId = _teacherList[i]["TeacherRegistrationID"].toString();
       }
     }
-    print('Teacher Name : $teacherName and Teacher ID: teacherId');
+    //print('Teacher Name : $teacherName and Teacher ID: teacherId');
   }
 }
